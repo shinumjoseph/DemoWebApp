@@ -1,6 +1,6 @@
 Import-Module WebAdministration
 
-$publishFolder = "$env:WORKSPACE\publish"
+$publishFolder = "C:\Users\hp\Desktop\DevOps\DemoWebApp\DemoWebAppPublish"
 $destination = "C:\DevOps Projects\DemoWebApps"
 
 Write-Host "Stopping IIS Website..."
